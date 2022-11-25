@@ -1,3 +1,5 @@
+// https://start.spring.io/
+
 package com.bitacademy.springbootex;
 
 import org.springframework.boot.SpringApplication;
