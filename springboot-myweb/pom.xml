@@ -21,12 +21,6 @@
 	</properties>
 	
 	<dependencies>
-		<!-- Spring Boot Basic Dependency -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
-		</dependency>
-		
 		<!-- Spring Boot Web Starter -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
